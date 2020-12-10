@@ -1,3 +1,3 @@
-# MSSC Beer CLient
+# MSSC Brewery CLient
 
 Spring Boot Rest Template example.
